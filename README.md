@@ -1,5 +1,5 @@
  
-# Document Exchange/Verification System on Ethereum Blockchain!
+# Document Exchange/Verification System on Ethereum Blockchain using IPFS!
 
 ### Prerequisites
   - Node -v 
