@@ -19,7 +19,7 @@
   $ https://github.com/dev-bootcamp-2019/final-project-RumeelHussain
   # change the current directory
   # install ganache and truffle
-  $ npm install -g ganache-cli truffle
+  $ npm install -g ganache-cli truffle@v4.1.14
   # open a new terminal, run below command and keep it alive
   $ ganache-cli
   # run solidity unit tests to check if environment is ready
