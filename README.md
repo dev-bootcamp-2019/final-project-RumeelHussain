@@ -1,6 +1,12 @@
  
 # Document Exchange/Verification System on Ethereum Blockchain using IPFS!
 
+### Overview
+Companies, Universities, and Firms require verifiable documents and communication methods.However, the easy manipulation of digital documents and transaction data creates challenges for the advancement of digital transformation,
+So I propose a document exchange and Verification system that offers new possibilities and use cases. Some benefits include cost reduction, risk mitigation, safely, securely and directly share/verify the documents without any intermediaries also it will  Improved the productivity thanks to simplified digitization of organizational processes that maintain a high level of trust between all parties and comply with security regulations.
+
+
+
 ### Prerequisites
   - Node -v 
     - v8.11.4
